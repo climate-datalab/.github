@@ -1,8 +1,6 @@
 ![climate_datalab_logo](https://github.com/climate-datalab/.github/assets/26262113/49c05f13-58cd-4ea0-b0ef-eaad10b9733e)
 
-# Climate DataLab
-
-## A Public Resource for Climate Model Education
+## Climate DataLab: A Public Resource for Climate Model Education
 
 ---------------------------
 
