@@ -1,3 +1,5 @@
+![climate_datalab_logo](https://github.com/climate-datalab/.github/assets/26262113/49c05f13-58cd-4ea0-b0ef-eaad10b9733e)
+
 # Climate DataLab
 
 ## A Public Resource for Climate Model Education
@@ -12,9 +14,12 @@ Learning how to work with datasets from climate models can be a daunting process
 - Coordinate systems and dealing with 1D vs. 2D latitude and longitude information
 - Calendar systems employed by climate models
 - Scenarios of future climate change
-- Naming schemes for both climate models and model experiments: from scenarios to MIPs
+- Naming schemes for both climate models and model experiments: from scenarios t
+o MIPs
 - Climate model large ensembles
 - Model "parameterizations" and inter-model physical differences
+
+Also check out our main website at http://www.climate-datalab.org/ for much more information!
 
 
 #### Climate DataLab Goals
