@@ -24,3 +24,15 @@ Also check out our main website at http://www.climate-datalab.org/ for much more
 The goals of our project are:
 - To increase usability of climate model output by the broader environmental science community as well as other interested groups
 - To foster learning across demographics historically underrepresented in climate science 
+
+
+### Getting Started: What You'll Need
+The tutorial exercises in these repositories are written in either Python or R. Some of them are configured to run using a Binder environment, but for others you'll need to download your own copy of the appropriate language.
+
+Python installation instructions can be found here:
+https://realpython.com/installing-python/
+
+R installation instructions (specifically, RStudio) are here:
+https://posit.co/products/open-source/rstudio/
+
+_note: if you like the RStudio interface, it can be used to execute either R or Python codes!_
