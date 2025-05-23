@@ -8,16 +8,18 @@
 
 ## Welcome to Climate DataLab!
 
-Learning how to work with datasets from climate models can be daunting, even for those with existing technical expertise. **Climate DataLab** provides "end-to-end" training on all aspects of the process:
+Learning how to work with datasets from climate models can be daunting, even for those with existing technical expertise. 
 
-    Understanding the fundamentals of how climate models are set up
-    Basics of file formats used for storing climate model output (netCDF)
-    Coordinate systems and dealing with 1D vs. 2D latitude and longitude information
-    Calendar systems employed by climate models
-    Scenarios of future climate change
-    Naming schemes for both climate models and model experiments: from scenarios t o MIPs
-    Climate model large ensembles
-    Model "parameterizations" and inter-model physical differences
+**Climate DataLab** provides "end-to-end" training on all aspects of the process:
+
+- Understanding the fundamentals of how climate models are set up
+- Basics of file formats used for storing climate model output (netCDF)
+- Coordinate systems and dealing with 1D vs. 2D latitude and longitude information
+- Calendar systems employed by climate models
+- Scenarios of future climate change
+- Naming schemes for both climate models and model experiments: from scenarios t o MIPs
+- Climate model large ensembles
+- Model "parameterizations" and inter-model physical differences
 
 
 👉 Check out our website at [www.climate-datalab.org](http://www.climate-datalab.org) for much more information!
